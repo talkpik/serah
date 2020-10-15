@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/serah-sample/static/css/main.34ce5491.chunk.css",
+    "main.js": "/serah-sample/static/js/main.6521d500.chunk.js",
+    "main.js.map": "/serah-sample/static/js/main.6521d500.chunk.js.map",
+    "runtime-main.js": "/serah-sample/static/js/runtime-main.bf9e89d9.js",
+    "runtime-main.js.map": "/serah-sample/static/js/runtime-main.bf9e89d9.js.map",
+    "static/css/2.9f6323dd.chunk.css": "/serah-sample/static/css/2.9f6323dd.chunk.css",
+    "static/js/2.b4a7d815.chunk.js": "/serah-sample/static/js/2.b4a7d815.chunk.js",
+    "static/js/2.b4a7d815.chunk.js.map": "/serah-sample/static/js/2.b4a7d815.chunk.js.map",
+    "index.html": "/serah-sample/index.html",
+    "precache-manifest.b15c3dd887da7f01f3e52d34487011b6.js": "/serah-sample/precache-manifest.b15c3dd887da7f01f3e52d34487011b6.js",
+    "service-worker.js": "/serah-sample/service-worker.js",
+    "static/css/2.9f6323dd.chunk.css.map": "/serah-sample/static/css/2.9f6323dd.chunk.css.map",
+    "static/css/main.34ce5491.chunk.css.map": "/serah-sample/static/css/main.34ce5491.chunk.css.map",
+    "static/js/2.b4a7d815.chunk.js.LICENSE.txt": "/serah-sample/static/js/2.b4a7d815.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/serah-sample/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/slick-theme.css": "/serah-sample/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf9e89d9.js",
+    "static/css/2.9f6323dd.chunk.css",
+    "static/js/2.b4a7d815.chunk.js",
+    "static/css/main.34ce5491.chunk.css",
+    "static/js/main.6521d500.chunk.js"
+  ]
+}
