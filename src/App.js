@@ -33,8 +33,8 @@ export default function App() {
           <LiveEvent />
         </Route>
         {/* below included */}
-        <Route path="/aboutus">
-          <AboutUs />
+        <Route path="/aboutus" component={AboutUs}>
+          
         </Route>
         <Route path="/maps">
           <Maps />
