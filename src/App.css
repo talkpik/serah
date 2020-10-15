@@ -1,0 +1,96 @@
+.App {
+    margin: 1 em;
+}
+
+h4:empty:before {
+    content: "\200b";
+    /* unicode zero width space character */
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 5px;
+    margin: 2px;
+    width: 500px;
+    background-color: #eee;
+}
+
+li a {
+    color: grey;
+}
+
+li:hover {
+    background-color: darkolivegreen;
+    color: white;
+}
+
+li:hover a {
+    color: white;
+}
+
+
+/* to be adjusted according to the video */
+
+iframe {
+    height: 75.21vh;
+    width: 100%;
+}
+
+.mammal_card {
+    width: 5em;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #dd2d25;
+}
+
+a:active {
+    color: #dd2d25;
+}
+
+
+/* Carousel */
+
+li.slick-active {
+    background-color: lightgray;
+}
+
+button.slick-arrow.slick-next,
+button.slick-arrow.slick-prev {
+    background-color: lightgray !important;
+    margin: -3px;
+}
+
+
+/* toggle button */
+
+.MuiButtonBase-root.MuiToggleButton-root.togglebutton {
+    border: 0;
+    background-color: transparent;
+}
+
+.MuiButtonBase-root.MuiToggleButton-root.togglebutton.Mui-selected {
+    border: 0;
+    background-color: transparent;
+}
+
+.MuiToggleButton-root,
+.MuiToggleButton-root.Mui-selected {
+    background-color: white;
+}
+
+
+/* aligning images on the unlocked mammal page */
+
+.MuiContainer-root.MuiContainer-maxWidthLg {
+    margin-left: 0px;
+}
+
+.MuiBox-root.MuiBox-root-39 {
+    margin-left: 17px;
+}
